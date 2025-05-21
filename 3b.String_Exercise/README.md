@@ -1,1 +1,5 @@
-
+NullorWhitespaceCheck output[->()]
+Palindrom output[->()]
+ReverseString output[->()]
+SubstringCounter[->()]
+WhitespaceRemover[->()]
