@@ -1,1 +1,5 @@
-
+NumericChecker output[->(https://github.com/preetykakchingtabam/JAVA/blob/main/3c.String_excercise/numbercheckers.png)]
+RandomStringGenerator[->()]
+StringTruncator[->()]
+WordCapitalizer[->()]
+WordCounter[->()]
