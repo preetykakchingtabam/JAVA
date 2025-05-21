@@ -1,0 +1,1 @@
+ColorTabbedPaneDemo  output[->()]
