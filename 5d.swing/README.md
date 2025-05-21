@@ -1,1 +1,1 @@
-ColorTabbedPaneDemo  output[->()]
+ColorTabbedPaneDemo  output[->(https://github.com/preetykakchingtabam/JAVA/blob/main/5d.swing/Cyan.png ,https://github.com/preetykakchingtabam/JAVA/blob/main/5d.swing/yellow.png ,https://github.com/preetykakchingtabam/JAVA/blob/main/5d.swing/magenta.png)]
