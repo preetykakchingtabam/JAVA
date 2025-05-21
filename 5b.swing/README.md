@@ -1,0 +1,1 @@
+ColorTabbedPaneApp output[->()]
