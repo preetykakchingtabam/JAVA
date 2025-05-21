@@ -1,1 +1,1 @@
-PrimeServlet  output[->()]
+PrimeServlet  output[->(https://github.com/preetykakchingtabam/JAVA/blob/main/6c.servlet/prime.png)]
