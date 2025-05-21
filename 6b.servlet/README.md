@@ -1,1 +1,2 @@
-CookieServlet output[->(https://github.com/preetykakchingtabam/JAVA/blob/main/6b.servlet/cookie.png)]
+CookieServlet output[->(https://github.com/preetykakchingtabam/JAVA/blob/main/6b.servlet/cookie.png,
+https://github.com/preetykakchingtabam/JAVA/blob/main/6b.servlet/welcom.png)]
