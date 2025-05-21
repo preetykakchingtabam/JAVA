@@ -77,7 +77,8 @@
 
 8a)[8a.jdbc outputlink]->(https://github.com/preetykakchingtabam/JAVA/blob/main/8a.jdbc/8a.jdbc.png)
 
-8b)
+8b)[8b.jdbc outputlink]->https://github.com/preetykakchingtabam/JAVA/blob/main/8b.jdbc/8b.jdbc.png
+
 8c)[8c.JDBC output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/8c.JDBC/8c.JDBC.png)
 
 8d)[8d.JDBC output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/8d.JDBC/8d.JDBC.png)
