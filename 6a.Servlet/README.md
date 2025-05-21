@@ -1,1 +1,1 @@
-FactorialServlet  output[->()]
+FactorialServlet  output[->(https://github.com/preetykakchingtabam/JAVA/blob/main/6a.Servlet/factorial.png)]
