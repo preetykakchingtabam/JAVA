@@ -100,7 +100,8 @@ https://github.com/preetykakchingtabam/JAVA/blob/main/8b.jdbc/update(3).png)
 _________________________________________________________________________________________________________________________________________________________________________
 *9.MSQL PROGRAM*
 
-9a)[9a.jsp outputlink]->(https://github.com/preetykakchingtabam/JAVA/blob/main/9a.jsp/9a.op.png)
+9a)[9a.jsp outputlink]->(https://github.com/preetykakchingtabam/JAVA/blob/main/9a.jsp/Deletecoffee(1).png,
+https://github.com/preetykakchingtabam/JAVA/blob/main/9a.jsp/Deletecoffee(2).png)
 
 9b)[9b.jsp outputlink]->(https://github.com/preetykakchingtabam/JAVA/blob/main/9b.jsp/9b.jsp.png)
 
