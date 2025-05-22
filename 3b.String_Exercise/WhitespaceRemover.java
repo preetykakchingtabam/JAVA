@@ -1,3 +1,5 @@
+//Q5. Write a Java Program for Eliminating all whitespace characters from a string using user definedfunction removeWhitespace()
+
 package StringExercise;
 import java.util.Scanner;
 public class WhitespaceRemover {
