@@ -84,7 +84,8 @@
 8d)[8d.JDBC output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/8d.JDBC/8d.JDBC.png)
 
 
-9a)
+9a)[9a.jsp outputlink]->(https://github.com/preetykakchingtabam/JAVA/blob/main/9a.jsp/9a.jsp.png)
+
 9b)
 9c)9c.Jsp[->(https://github.com/preetykakchingtabam/JAVA/blob/main/9c.JSP/9c.Jsp.png)]
 
