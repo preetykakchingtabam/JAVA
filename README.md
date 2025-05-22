@@ -88,7 +88,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________________
 *8.HTML AND JSP AND JDBC PROGRAM*
 
-8a)[8a.jdbc outputlink]->(https://github.com/preetykakchingtabam/JAVA/blob/main/8a.jdbc/8A.png)
+8a)[8a.jdbc outputlink]->(https://github.com/preetykakchingtabam/JAVA/blob/main/8a.jdbc/8acoffeeservlet(1).png, https://github.com/preetykakchingtabam/JAVA/blob/main/8a.jdbc/8acoffeeservlet.png)
 
 8b)[8b.jdbc outputlink]->(https://github.com/preetykakchingtabam/JAVA/blob/main/8b.jdbc/8B.png)
 
