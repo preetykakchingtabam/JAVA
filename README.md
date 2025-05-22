@@ -1,4 +1,5 @@
 # Advanced-Java-Assignment(BCS613D)-4AL22CS109
+1.ARRAYLIST AND LINKEDLIST
 1a)[ArrayListExample Output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/1a.Array_List/Arraylist.png)
 
 1b)[ColorManager output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/1b.Array_List/Colormanager.png)
