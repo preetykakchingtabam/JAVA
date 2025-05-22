@@ -50,6 +50,7 @@ ________________________________________________________________________________
 [StringTruncator]->(https://github.com/preetykakchingtabam/JAVA/blob/main/3c.String_excercise/turncator.png)
 
 [WordCapitalizer]->(https://github.com/preetykakchingtabam/JAVA/blob/main/3c.String_excercise/wordcapital.png) 
+
 [WordCounter]->(https://github.com/preetykakchingtabam/JAVA/blob/main/3c.String_excercise/wordcounter.png)
 ________________________________________________________________________________________________________________________________________________________________
 *4.SWING PEOGRAMS*
