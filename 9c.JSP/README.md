@@ -1,1 +1,1 @@
-9c.Jsp[->(https://github.com/preetykakchingtabam/JAVA/blob/main/9c.JSP/9c.Jsp.png)]
+[9c.JSP]->(https://github.com/preetykakchingtabam/JAVA/tree/main/9c.JSP)
