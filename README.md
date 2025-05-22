@@ -30,6 +30,7 @@ ________________________________________________________________________________
 
 2b)[StringBuffer output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/2b.String_buffer/Stringbuffer.png)
 _____________________________________________________________________________________________________________________________________________________________________
+*3.STRING OPERATION AND STRING EXERCISES*
 
 3a)[StringOperation output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/3a.String_operation/Stringoperation3a.png)
 
@@ -51,6 +52,7 @@ ________________________________________________________________________________
 [WordCapitalizer]->(https://github.com/preetykakchingtabam/JAVA/blob/main/3c.String_excercise/wordcapital.png) 
 [WordCounter]->(https://github.com/preetykakchingtabam/JAVA/blob/main/3c.String_excercise/wordcounter.png)
 ________________________________________________________________________________________________________________________________________________________________
+*4.SWING PEOGRAMS*
 
 4a)[HelloSwing output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/4a.Swing/swing.png)
 
@@ -58,6 +60,8 @@ ________________________________________________________________________________
 
 4c)[ImageButtobApp Output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/4c.swing/image.png)
 ____________________________________________________________________________________________________________________________________________________________________
+*5.SWING PROGRAMS*
+
 5a)[CountryListApp Outpout Link]->(https://github.com/preetykakchingtabam/JAVA/blob/main/5a.swing/Country.png)
 
 5b)[ColorTabbedPaneApp output]->(http://github.com/preetykakchingtabam/JAVA/blob/main/5b.swing/red.png , https://github.com/preetykakchingtabam/JAVA/blob/main/5b.swing/blue.png , https://github.com/preetykakchingtabam/JAVA/blob/main/5b.swing/green.png)
@@ -66,6 +70,8 @@ ________________________________________________________________________________
 
 5d)[ColorTabbedPaneDemo output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/5d.swing/Cyan.png, https://github.com/preetykakchingtabam/JAVA/blob/main/5d.swing/yellow.png, https://github.com/preetykakchingtabam/JAVA/blob/main/5d.swing/magenta.png)
 _______________________________________________________________________________________________________________________________________________________________________
+*6.SERVLET PROGRAM*
+
 6a)[FactorialServlet output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/6a.Servlet/facCal.png, https://github.com/preetykakchingtabam/JAVA/blob/main/6a.Servlet/factorial.png)
 
 6b)[CookieServlet output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/6b.servlet/welcom.png, https://github.com/preetykakchingtabam/JAVA/blob/main/6b.servlet/cookie.png)
@@ -73,10 +79,13 @@ ________________________________________________________________________________
 6c)[PrimeServlet output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/6c.servlet/primeno.png, https://github.com/preetykakchingtabam/JAVA/blob/main/6c.servlet/prime.png)
 
 ___________________________________________________________________________________________________________________________________________________________________________
+*7.JSP PROGRAM*
+
 7a)[SessionManagement using JSP output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/7a.JSP/seesionma.png, https://github.com/preetykakchingtabam/JAVA/blob/main/7a.JSP/Session.png, https://github.com/preetykakchingtabam/JAVA/blob/main/7a.JSP/second.png)
 
 7b)[CookieManagementJSP Output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/7b.JSP/cookieManagement.png, https://github.com/preetykakchingtabam/JAVA/blob/main/7b.JSP/cookieManage1.png)
 ___________________________________________________________________________________________________________________________________________________________________________
+*8.HTML AND JSP AND JDBC PROGRAM*
 
 8a)[8a.jdbc outputlink]->(https://github.com/preetykakchingtabam/JAVA/blob/main/8a.jdbc/8a.jdbc.png)
 
@@ -86,6 +95,7 @@ ________________________________________________________________________________
 
 8d)[8d.JDBC output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/8d.JDBC/8d.JDBC.png)
 _________________________________________________________________________________________________________________________________________________________________________
+*9.MSQL PROGRAM*
 
 9a)[9a.jsp outputlink]->(https://github.com/preetykakchingtabam/JAVA/blob/main/9a.jsp/9a.jsp.png)
 
