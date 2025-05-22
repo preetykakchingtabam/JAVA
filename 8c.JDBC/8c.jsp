@@ -1,69 +1,46 @@
 <%@ page import="java.sql.*" %>
-<%@ page import="java.util.*" %>
-<html>
-<body>
-<h2>Enter Employee Details</h2>
-<form method="post">
-  Emp No: <input type="text" name="empno"/><br/>
-  Name: <input type="text" name="empname"/><br/>
-  Basic Salary: <input type="text" name="salary"/><br/>
-  <input type="submit" value="Insert"/>
-</form>
-
 <%
-Connection con = null;
-try {
-    Class.forName("com.mysql.jdbc.Driver");
-    con = DriverManager.getConnection("jdbc:mysql://localhost:3306/test", "root", "");
+    String jdbcURL = "jdbc:mysql://localhost:3306/Employee";
+    String dbUser = "root";  // Change if needed
+    String dbPassword = "";  // Change if needed
 
-    if(request.getParameter("empno") != null) {
-        int empno = Integer.parseInt(request.getParameter("empno"));
-        String empname = request.getParameter("empname");
-        int salary = Integer.parseInt(request.getParameter("salary"));
+    Connection conn = null;
+    Statement stmt = null;
+    ResultSet rs = null;
 
-        PreparedStatement ps = con.prepareStatement("INSERT INTO Emp VALUES (?, ?, ?)");
-        ps.setInt(1, empno);
-        ps.setString(2, empname);
-        ps.setInt(3, salary);
+    try {
+        Class.forName("com.mysql.cj.jdbc.Driver");
+        conn = DriverManager.getConnection(jdbcURL, dbUser, dbPassword);
+        stmt = conn.createStatement();
+        rs = stmt.executeQuery("SELECT * FROM Emp");
 
-        int i = ps.executeUpdate();
-        if(i > 0) out.println("<p style='color:green;'>Employee inserted successfully.</p>");
+        double grandSalary = 0;
+
+        out.println("<h2>Salary Report</h2>");
+        out.println("<pre>");
+        while (rs.next()) {
+            int empNo = rs.getInt("Emp_NO");
+            String empName = rs.getString("Emp_Name");
+            double basicSalary = rs.getDouble("Basicsalary");
+
+            grandSalary += basicSalary;
+
+            out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+            out.println("Emp_No : " + empNo);
+            out.println("Emp_Name: " + empName);
+            out.println("Basic : " + basicSalary);
+        }
+        out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+        out.println("Grand Salary : " + grandSalary);
+        out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+        out.println("</pre>");
+        out.println("<p><a href='addEmp.html'>Add Employee</a></p>");
+
+    } catch (Exception e) {
+        out.println("<p>Error: " + e.getMessage() + "</p>");
+    } finally {
+        if (rs != null) try { rs.close(); } catch(Exception e) {}
+        if (stmt != null) try { stmt.close(); } catch(Exception e) {}
+        if (conn != null) try { conn.close(); } catch(Exception e) {}
     }
-
-    // Generate Salary Report
-    out.println("<hr/>");
-    out.println("<h3>Salary Report</h3>");
-    out.println("<pre>");
-    out.println("---------------------------------------------");
-
-    Statement stmt = con.createStatement();
-    ResultSet rs = stmt.executeQuery("SELECT * FROM Emp");
-
-    int total = 0;
-    while(rs.next()) {
-        int eno = rs.getInt("Emp_NO");
-        String ename = rs.getString("Emp_Name");
-        int basic = rs.getInt("Basicsalary");
-        total += basic;
-
-        out.println("Emp_No   : " + eno);
-        out.println("Emp_Name : " + ename);
-        out.println("Basic    : " + basic);
-        out.println("---------------------------------------------");
-    }
-
-    out.println("Grand Salary : " + total);
-    out.println("---------------------------------------------");
-    out.println("</pre>");
-
-} catch(Exception e) {
-    out.println("<p style='color:red;'>Error: " + e.getMessage() + "</p>");
-} finally {
-    if(con != null) con.close();
-}
 %>
-</body>
-</html>
-
-
-
