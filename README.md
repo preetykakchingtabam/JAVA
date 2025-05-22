@@ -102,7 +102,7 @@ ________________________________________________________________________________
 
 9b)[9b.jsp outputlink]->(https://github.com/preetykakchingtabam/JAVA/blob/main/9b.jsp/9b.jsp.png)
 
-9c)9c.Jsp[->(https://github.com/preetykakchingtabam/JAVA/blob/main/9c.JSP/9c.Jsp.png)]
+9c)[9c.Jsp]->(https://github.com/preetykakchingtabam/JAVA/blob/main/9c.JSP/9c.Jsp.png)
 
-9d)9d.jsp output[->(https://github.com/preetykakchingtabam/JAVA/blob/main/9d.JSP/9d.jsp.png)]
+9d)[9d.jsp output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/9d.JSP/9d.op.png)
 
