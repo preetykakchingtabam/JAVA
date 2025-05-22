@@ -105,7 +105,7 @@ https://github.com/preetykakchingtabam/JAVA/blob/main/9a.jsp/Deletecoffee(2).png
 
 9b)[9b.jsp outputlink]->(https://github.com/preetykakchingtabam/JAVA/blob/main/9b.jsp/9b.jsp.png)
 
-9c)[9c.Jsp]->(https://github.com/preetykakchingtabam/JAVA/tree/main/9c.JSP)
+9c)[9c.Jsp]->(https://github.com/preetykakchingtabam/JAVA/blob/main/9c.JSP/9C.png)
 
 9d)[9d.jsp output]->(https://github.com/preetykakchingtabam/JAVA/blob/main/9d.JSP/9d.op.png)
 
